@@ -1,2 +1,2 @@
 # pythonExercises
-Here is a collection of completed python excerises.
+Here is a collection of completed python excerises and projects.
