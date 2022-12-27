@@ -125,9 +125,6 @@ def main():
     "Q19 - Do you prefer to A: preparation, plan ahead or B: go with the flow, adapt as you go ",
     "Q20 - Do you like A: control, govern or B: latitude, freedom"]
     displayPersonalty(calcPersonalityCode(questions))
-   # code = input("Enter the code to learn about your personality: ")
-   # displayPersonalty(code)
-
 main()
     
     
